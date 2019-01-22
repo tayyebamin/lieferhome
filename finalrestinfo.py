@@ -40,7 +40,7 @@ def findrestinfo(myurl):
         if "Lieferzeiten" in heading:
             file_rest_ot = open(homepath + "rest_ot.csv","w",newline="")
             rest_ot_writer = csv.writer(file_rest_ot,delimiter="|")
-            rest_ot_writer.writerow(["day|from|to"])
+            
             rows=card.find_elements_by_tag_name("tr")
             for row in rows:
                 datas=row.find_elements_by_tag_name("td")
@@ -56,10 +56,10 @@ def findrestinfo(myurl):
                         for Otime in Times:
                             try:
                                 print(Day,Otime.split("-")[0] ,Otime.split("-")[1])
-                                rest_ot_writer.writerow([Day,Otime.split("-")[0] ,Otime.split("-")[1]])
+                                rest_ot_writer.writerow([myurl, Day,Otime.split("-")[0] ,Otime.split("-")[1]])
                             except Exception as e:
                                 print(Day,-1,-1)
-                                rest_ot_writer.writerow([Day,-1,-1])
+                                rest_ot_writer.writerow([myurl,Day,-1,-1])
                         stri = stri + " " + data.text.replace("\n"," ")
                     
                 stri = stri + "]"
@@ -79,9 +79,8 @@ def findrestinfo(myurl):
             print(restname,owner,address)
             file_rest = open(homepath + "rest_info.csv","w",newline="")
             rest_writer = csv.writer(file_rest,delimiter="|")
-            rest_writer.writerow(["restname|owner|address|plz"])
             plz=re.findall("[0-9]{5}",address)[0]
-            rest_writer.writerow([restname,owner,address,plz])
+            rest_writer.writerow([myurl,owner,address,plz])
             file_rest.close()
             s=file_rest.name
             d=os.path.dirname(file_rest.name)+"\\"+restname+"_"+os.path.basename(file_rest.name) 

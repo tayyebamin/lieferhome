@@ -1,0 +1,4844 @@
+ID: Pizza-Angebot:popularQ1P177NO3
+Pizza-Angebot
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Salami:popularNQOP3O1N3
+Pizza Salami
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Margherita:popularNRR7QO1N3
+Pizza Margherita
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza-Angebot:Q1P177NO3
+Pizza-Angebot
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Salat-Angebot:QOP177NO3
+Salat-Angebot
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Ei/-Erzeugnisse
+- Enthält Sellerie/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pasta-Angebot:Q7P177NO3
+Pasta-Angebot
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Burrito-Angebot:Q07177NO3
+
+------------------------------------------------------------------------
+ID: Schnitzel-Angebot:Q37177NO3
+Schnitzel-Angebot
+Allergene
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Ei/-Erzeugnisse
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Mexikanischer Salat:NO11311N3
+Mexikanischer Salat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Ei/-Erzeugnisse
+- Enthält Sellerie/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Tomaten Salat:N711311N3
+
+------------------------------------------------------------------------
+ID: Caprese Salat:N0N1311N3
+Caprese Salat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Ei/-Erzeugnisse
+- Enthält Sellerie/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Beilagensalat:N051311N3
+Beilagensalat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Ei/-Erzeugnisse
+- Enthält Sellerie/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Chicken Salat:N3N1311N3
+Chicken Salat
+Allergene
+- Enthält Fisch/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Senf/-Erzeugnisse
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Ei/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Französischer Salat:NPN1311N3
+Französischer Salat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Ei/-Erzeugnisse
+- Enthält Sellerie/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Griechischer Salat:NRN1311N3
+Griechischer Salat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Italienischer Salat:NN31311N3
+Italienischer Salat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Ei/-Erzeugnisse
+- Enthält Sellerie/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Italo Spezial Salat:N531311N3
+Italo Spezial Salat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Ei/-Erzeugnisse
+- Enthält Sellerie/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Spolo Salat:NQ31311N3
+
+------------------------------------------------------------------------
+ID: Gemischter Salat:N1O1311N3
+Gemischter Salat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Ei/-Erzeugnisse
+- Enthält Sellerie/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Florida Salat:NOO1311N3
+
+------------------------------------------------------------------------
+ID: Mesta Salat:N7O1311N3
+
+------------------------------------------------------------------------
+ID: Mexikanischer Salat:NPQ1311N3
+
+------------------------------------------------------------------------
+ID: Tomaten Salat:NRQ1311N3
+
+------------------------------------------------------------------------
+ID: Caprese Salat:NNR1311N3
+
+------------------------------------------------------------------------
+ID: Chicken Salat:N5R1311N3
+
+------------------------------------------------------------------------
+ID: Französischer Salat:NQR1311N3
+
+------------------------------------------------------------------------
+ID: Griechischer Salat:N10N311N3
+
+------------------------------------------------------------------------
+ID: Italienischer Salat:NO0N311N3
+
+------------------------------------------------------------------------
+ID: Italo Spezial Salat:N70N311N3
+
+------------------------------------------------------------------------
+ID: Spolo Salat:N01N311N3
+Spolo Salat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Ei/-Erzeugnisse
+- Enthält Sellerie/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Gemischter Salat:N31N311N3
+Gemischter Salat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Ei/-Erzeugnisse
+- Enthält Sellerie/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Florida Salat:NP1N311N3
+Florida Salat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Ei/-Erzeugnisse
+- Enthält Sellerie/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Mesta Salat:NR1N311N3
+Mesta Salat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Ei/-Erzeugnisse
+- Enthält Sellerie/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Margherita:NRR7QO1N3
+Pizza Margherita
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Salami:NQOP3O1N3
+Pizza Salami
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Peperoniwurst:N15P3O1N3
+Pizza Peperoniwurst
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Schinken:NO5P3O1N3
+Pizza Schinken
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Thunfisch:N75P3O1N3
+Pizza Thunfisch
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Fisch/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Ei/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Hawaii:N0PP3O1N3
+Pizza Hawaii
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Big Pep:N3PP3O1N3
+Pizza Big Pep
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Bropep:NPPP3O1N3
+Pizza Bropep
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Caruso:NRPP3O1N3
+Pizza Caruso
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Ei Pep:NN7P3O1N3
+Pizza Ei Pep
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Frischto:N57P3O1N3
+Pizza Frischto
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Gagulus:NQ7P3O1N3
+Pizza Gagulus
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Grüneroni:N1QP3O1N3
+Pizza Grüneroni
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Holländer:NOQP3O1N3
+Pizza Holländer
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Indisch Curry:N7QP3O1N3
+Pizza Indisch Curry
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Madagaskar:N0RP3O1N3
+Pizza Madagaskar
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Mag:N3RP3O1N3
+Pizza Mag
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Mix:NPRP3O1N3
+Pizza Mix
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Neumann Spezial:NRRP3O1N3
+Pizza Neumann Spezial
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Pepi:NN073O1N3
+Pizza Pepi
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Pepino:N5073O1N3
+Pizza Pepino
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Portofino:NQ073O1N3
+Pizza Portofino
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Romana:N1173O1N3
+Pizza Romana
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Romana Forte:NO173O1N3
+Pizza Romana Forte
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Saison:N7173O1N3
+Pizza Saison
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Salapep:N0N73O1N3
+Pizza Salapep
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Samba:N3N73O1N3
+Pizza Samba
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Schila:NPN73O1N3
+Pizza Schila
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Schimapi:NRN73O1N3
+Pizza Schimapi
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Schinken Super:NN373O1N3
+Pizza Schinken Super
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Sole Mio:N5373O1N3
+Pizza Sole Mio
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Sportiokales:NQ373O1N3
+Pizza Sportiokales
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Super Mix:N1O73O1N3
+Pizza Super Mix
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Topic:NOO73O1N3
+Pizza Topic
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Tresen:N7O73O1N3
+Pizza Tresen
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Venecia:N0573O1N3
+Pizza Venecia
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Vier Jahreszeiten:N3573O1N3
+Pizza Vier Jahreszeiten
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Watze Pizza:NP573O1N3
+Watze Pizza
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Zombie:NR573O1N3
+Pizza Zombie
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Zwieberoni:NNP73O1N3
+Pizza Zwieberoni
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Palmero:N5P73O1N3
+Pizza Palmero
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Peplauch:NQP73O1N3
+Pizza Peplauch
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Boli:N1773O1N3
+Pizza Boli
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Cappri:NO773O1N3
+Pizza Cappri
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Diavolo:N7773O1N3
+Pizza Diavolo
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Rossano:N0Q73O1N3
+Pizza Rossano
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Bolo Spezial:N3Q73O1N3
+Pizza Bolo Spezial
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Tris:NPQ73O1N3
+Pizza Tris
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza a Cambari:NRQ73O1N3
+Pizza a Cambari
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Bankok:NQQ05O1N3
+Pizza Bankok
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Chicken Curry:N1R05O1N3
+Pizza Chicken Curry
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Chicken Fresh:NOR05O1N3
+Pizza Chicken Fresh
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Chicken Süß-Sauer:N7R05O1N3
+Pizza Chicken Süß-Sauer
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Chicken Spezial:N0015O1N3
+Pizza Chicken Spezial
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Chicken Hot:N3015O1N3
+Pizza Chicken Hot
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Schlilum:NP015O1N3
+Pizza Schlilum
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Chicken Chili:NR015O1N3
+Pizza Chicken Chili
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Sucuk:N5715O1N3
+Pizza Sucuk
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Sahara:NQ715O1N3
+Pizza Sahara
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Classico:N1Q15O1N3
+Pizza Classico
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Margherita:NNR73O1N3
+Pizza Margherita
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Salami:N5R73O1N3
+Pizza Salami
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Peperoniwurst:NQR73O1N3
+Pizza Peperoniwurst
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Schinken:N10Q3O1N3
+Pizza Schinken
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Thunfisch:NO0Q3O1N3
+Pizza Thunfisch
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Fisch/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Ei/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Hawaii:N70Q3O1N3
+Pizza Hawaii
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Big Pep:N01Q3O1N3
+Pizza Big Pep
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Bropep:N31Q3O1N3
+Pizza Bropep
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Caruso:NP1Q3O1N3
+Pizza Caruso
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Ei Pep:NR1Q3O1N3
+Pizza Ei Pep
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Frischto:NNNQ3O1N3
+Pizza Frischto
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Gagulus:N5NQ3O1N3
+Pizza Gagulus
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Grüneroni:NQNQ3O1N3
+Pizza Grüneroni
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Holländer:N13Q3O1N3
+Pizza Holländer
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Indisch Curry:NO3Q3O1N3
+Pizza Indisch Curry
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Madagaskar:N73Q3O1N3
+Pizza Madagaskar
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Mag:N0OQ3O1N3
+Pizza Mag
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Mix:N3OQ3O1N3
+Pizza Mix
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Neumann Spezial:NPOQ3O1N3
+Pizza Neumann Spezial
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Pepi:NROQ3O1N3
+Pizza Pepi
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Pepino:NN5Q3O1N3
+Pizza Pepino
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Portofino:N55Q3O1N3
+Pizza Portofino
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Romana:NQ5Q3O1N3
+Pizza Romana
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Romana Forte:N1PQ3O1N3
+Pizza Romana Forte
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Saison:NOPQ3O1N3
+Pizza Saison
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Salapep:N7PQ3O1N3
+Pizza Salapep
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Samba:N07Q3O1N3
+Pizza Samba
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Schila:N37Q3O1N3
+Pizza Schila
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Schimapi:NP7Q3O1N3
+Pizza Schimapi
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Schinken Super:NR7Q3O1N3
+Pizza Schinken Super
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Sole Mio:NNQQ3O1N3
+Pizza Sole Mio
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Sportiokales:N5QQ3O1N3
+Pizza Sportiokales
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Super Mix:NQQQ3O1N3
+Pizza Super Mix
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Topic:N1RQ3O1N3
+Pizza Topic
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Tresen:NORQ3O1N3
+Pizza Tresen
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Venecia:N7RQ3O1N3
+Pizza Venecia
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Vier Jahreszeiten:N00R3O1N3
+Pizza Vier Jahreszeiten
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Watze Pizza:N30R3O1N3
+Watze Pizza
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Zombie:NP0R3O1N3
+Pizza Zombie
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Zwieberoni:NR0R3O1N3
+Pizza Zwieberoni
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Palmero:NN1R3O1N3
+Pizza Palmero
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Peplauch:N51R3O1N3
+Pizza Peplauch
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Boli:NQ1R3O1N3
+Pizza Boli
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Cappri:N1NR3O1N3
+Pizza Cappri
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Diavolo:NONR3O1N3
+Pizza Diavolo
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Rossano:N7NR3O1N3
+Pizza Rossano
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Bolo Spezial:N03R3O1N3
+Pizza Bolo Spezial
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Tris:N33R3O1N3
+Pizza Tris
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza a Cambari:NP3R3O1N3
+Pizza a Cambari
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Bankok:NN115O1N3
+Pizza Bankok
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Chicken Curry:N5115O1N3
+Pizza Chicken Curry
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Chicken Fresh:NQ115O1N3
+Pizza Chicken Fresh
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Chicken Süß-Sauer:N1N15O1N3
+Pizza Chicken Süß-Sauer
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Chicken Spezial:NON15O1N3
+Pizza Chicken Spezial
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Chicken Hot:N7N15O1N3
+Pizza Chicken Hot
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Schlilum:N0315O1N3
+Pizza Schlilum
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Chicken Chili:N3315O1N3
+Pizza Chicken Chili
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Sucuck:N3R15O1N3
+Pizza Sucuck
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Sahara:NPR15O1N3
+Pizza Sahara
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Classico:NRR15O1N3
+Pizza Classico
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Margherita:NN7R3O1N3
+Pizza Margherita
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Salami:N57R3O1N3
+Pizza Salami
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Peperoniwurst:NQ7R3O1N3
+Pizza Peperoniwurst
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Schinken:N1QR3O1N3
+Pizza Schinken
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Thunfisch:NOQR3O1N3
+Pizza Thunfisch
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Fisch/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Ei/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Hawaii:N7QR3O1N3
+Pizza Hawaii
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Big Pep:N0RR3O1N3
+Pizza Big Pep
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Bropep:N3RR3O1N3
+Pizza Bropep
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Caruso:NPRR3O1N3
+Pizza Caruso
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Ei Pep:NRRR3O1N3
+Pizza Ei Pep
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Frischto:NN00OO1N3
+Pizza Frischto
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Gagulus:N500OO1N3
+Pizza Gagulus
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Grüneroni:NQ00OO1N3
+Pizza Grüneroni
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Holländer:N110OO1N3
+Pizza Holländer
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Indisch Curry:NO10OO1N3
+Pizza Indisch Curry
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Madagaskar:N710OO1N3
+Pizza Madagaskar
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Mag:N0N0OO1N3
+Pizza Mag
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Mix:N3N0OO1N3
+Pizza Mix
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Neumann Spezial:NPN0OO1N3
+Pizza Neumann Spezial
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Pepi:NRN0OO1N3
+Pizza Pepi
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Pepino:NN30OO1N3
+Pizza Pepino
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Portofino:N530OO1N3
+Pizza Portofino
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Romana:NQ30OO1N3
+Pizza Romana
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Romana Forte:N1O0OO1N3
+Pizza Romana Forte
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Saison:NOO0OO1N3
+
+------------------------------------------------------------------------
+ID: Pizza Salapep:N7O0OO1N3
+Pizza Salapep
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Samba:N050OO1N3
+Pizza Samba
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Schila:N350OO1N3
+Pizza Schila
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Schimapi:NP50OO1N3
+Pizza Schimapi
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Schinken Super:NR50OO1N3
+Pizza Schinken Super
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Sole Mio:NNP0OO1N3
+Pizza Sole Mio
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Sportiokales:N5P0OO1N3
+Pizza Sportiokales
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Super Mix:NQP0OO1N3
+Pizza Super Mix
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Topic:N170OO1N3
+Pizza Topic
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Tresen:NO70OO1N3
+Pizza Tresen
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Venecia:N770OO1N3
+Pizza Venecia
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Vier Jahreszeiten:N0Q0OO1N3
+Pizza Vier Jahreszeiten
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Watze Pizza:N3Q0OO1N3
+Watze Pizza
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Zombie:NPQ0OO1N3
+Pizza Zombie
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Zwieberoni:NRQ0OO1N3
+Pizza Zwieberoni
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Palmero:NNR0OO1N3
+Pizza Palmero
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Peplauch:N5R0OO1N3
+Pizza Peplauch
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Boli:NQR0OO1N3
+Pizza Boli
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Cappri:N101OO1N3
+Pizza Cappri
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Diavolo:NO01OO1N3
+Pizza Diavolo
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Rossano:N701OO1N3
+Pizza Rossano
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Bolo Spezial:N011OO1N3
+Pizza Bolo Spezial
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Tris:N311OO1N3
+Pizza Tris
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza a Cambari:NP11OO1N3
+Pizza a Cambari
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Bankok:NP315O1N3
+Pizza Bankok
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Chicken Curry:NR315O1N3
+Pizza Chicken Curry
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Chicken Fresh:NNO15O1N3
+Pizza Chicken Fresh
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Chicken Süß-Sauer:N5O15O1N3
+Pizza Chicken Süß-Sauer
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Chicken Spezial:NQO15O1N3
+Pizza Chicken Spezial
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Chicken Hot:N1515O1N3
+Pizza Chicken Hot
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Schlilum:NO515O1N3
+Pizza Schlilum
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Chicken Chili:N7515O1N3
+Pizza Chicken Chili
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Sucuck:N7035O1N3
+Pizza Sucuck
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Sahara:N0135O1N3
+Pizza Sahara
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Classico:N3135O1N3
+Pizza Classico
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Funghi:NON0RO1N3
+Pizza Funghi
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Artischocken:N7N0RO1N3
+Pizza Artischocken
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Broccoli:N030RO1N3
+Pizza Broccoli
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Vegetaria:N330RO1N3
+Pizza Vegetaria
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Polo:NP30RO1N3
+Pizza Polo
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Zucchini:NR30RO1N3
+Pizza Zucchini
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Vierkäse:NNO0RO1N3
+Pizza Vierkäse
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Camp:N5O0RO1N3
+Pizza Camp
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Greco:NQO0RO1N3
+Pizza Greco
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Lauch Spezial:N150RO1N3
+Pizza Lauch Spezial
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Lauch Super:NO50RO1N3
+Pizza Lauch Super
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Pikante:N750RO1N3
+Pizza Pikante
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Sirtaki:N0P0RO1N3
+Pizza Sirtaki
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Soßen Champ:N3P0RO1N3
+Pizza Soßen Champ
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Teuflisch:NPONRO1N3
+Pizza Teuflisch
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Vegetarisch:NRONRO1N3
+Pizza Vegetarisch
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Sizilia:NPP0RO1N3
+Pizza Sizilia
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Fresh:NRP0RO1N3
+Pizza Fresh
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Rivera:NN70RO1N3
+Pizza Rivera
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Auberginen:N570RO1N3
+Pizza Auberginen
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Chef:NQ70RO1N3
+Pizza Chef
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Gemüse:N1Q0RO1N3
+Pizza Gemüse
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Poparella:NOQ0RO1N3
+Pizza Poparella
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Popei:N7Q0RO1N3
+Pizza Popei
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Funghi:N0R0RO1N3
+Pizza Funghi
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Artischocken:N3R0RO1N3
+Pizza Artischocken
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Broccoli:NPR0RO1N3
+Pizza Broccoli
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Vegetaria:NRR0RO1N3
+Pizza Vegetaria
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Polo:NN01RO1N3
+Pizza Polo
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Zucchini:N501RO1N3
+Pizza Zucchini
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Vierkäse:NQ01RO1N3
+Pizza Vierkäse
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Camp:N111RO1N3
+Pizza Camp
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Greco:NO11RO1N3
+Pizza Greco
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Lauch Spezial:N711RO1N3
+Pizza Lauch Spezial
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Lauch Super:N0N1RO1N3
+Pizza Lauch Super
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Pikante:N3N1RO1N3
+Pizza Pikante
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Sirtaki:NPN1RO1N3
+Pizza Sirtaki
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Soßen Champ:NRN1RO1N3
+Pizza Soßen Champ
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Teuflisch:NN5NRO1N3
+Pizza Teuflisch
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Vegetarisch:N55NRO1N3
+Pizza Vegetarisch
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Sizilia:NN31RO1N3
+Pizza Sizilia
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Fresh:N531RO1N3
+Pizza Fresh
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Rivera:NQ31RO1N3
+Pizza Rivera
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Auberginen:N1O1RO1N3
+Pizza Auberginen
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Chef:NOO1RO1N3
+Pizza Chef
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Gemüse:N7O1RO1N3
+Pizza Gemüse
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Poparella:N051RO1N3
+Pizza Poparella
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Popei:N351RO1N3
+Pizza Popei
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Funghi:NP51RO1N3
+Pizza Funghi
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Artischocken:NR51RO1N3
+Pizza Artischocken
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Broccoli:NNP1RO1N3
+Pizza Broccoli
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Vegetaria:N5P1RO1N3
+Pizza Vegetaria
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Polo:NQP1RO1N3
+Pizza Polo
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Zucchini:N171RO1N3
+Pizza Zucchini
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Vierkäse:NO71RO1N3
+Pizza Vierkäse
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Camp:N771RO1N3
+Pizza Camp
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Greco:N0Q1RO1N3
+Pizza Greco
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Lauch Spezial:N3Q1RO1N3
+Pizza Lauch Spezial
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Lauch Super:NPQ1RO1N3
+Pizza Lauch Super
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Pikante:NRQ1RO1N3
+Pizza Pikante
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Sirtaki:NNR1RO1N3
+Pizza Sirtaki
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Soßen Champ:N5R1RO1N3
+Pizza Soßen Champ
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Teuflisch:N1PNRO1N3
+Pizza Teuflisch
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Vegetarisch:NOPNRO1N3
+Pizza Vegetarisch
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Sizilia:NQR1RO1N3
+Pizza Sizilia
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Fresh:N10NRO1N3
+Pizza Fresh
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Rivera:NO0NRO1N3
+Pizza Rivera
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Auberginen:N70NRO1N3
+Pizza Auberginen
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Chef:N01NRO1N3
+Pizza Chef
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Gemüse:N31NRO1N3
+Pizza Gemüse
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Poparella:NP1NRO1N3
+Pizza Poparella
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Popei:NR1NRO1N3
+Pizza Popei
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Marinara:N57O5O1N3
+Pizza Marinara
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Mexicana Revival:NQ7O5O1N3
+Pizza Mexicana Revival
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Tresen Plus:N1QO5O1N3
+Pizza Tresen Plus
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Tuna:NOQO5O1N3
+Pizza Tuna
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Fisch/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Ei/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Meeresfrüchte:N7QO5O1N3
+Pizza Meeresfrüchte
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Fisch/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Krebstiere/-Erzeugnisse
+- Enthält Ei/-Erzeugnisse
+- Enthält Erdnüsse/-Erzeugnisse
+- Enthält Sojabohnen/-Erzeugnisse
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Schalenfrüchte/Nüsse bzw. Nusserzeugnisse
+- Enthält Sellerie/-Erzeugnisse
+- Enthält Senf/-Erzeugnisse
+- Enthält Sesamsamen/-Erzeugnisse
+- Enthält Lupine/-nerzeugnisse
+- Enthält Weichtiere/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Tuna Spezial:N0RO5O1N3
+Pizza Tuna Spezial
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Tonno Cipola:N3RO5O1N3
+Pizza Tonno Cipola
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Cambari:NPRO5O1N3
+Pizza Cambari
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Sahra:NRRO5O1N3
+Pizza Sahra
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Meer Spezial:NN055O1N3
+Pizza Meer Spezial
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Weichtiere/-Erzeugnisse
+- Enthält Krebstiere/-Erzeugnisse
+- Enthält Fisch/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Tonno Hot:NQ055O1N3
+Pizza Tonno Hot
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Marinara:NRR1QO1N3
+Pizza Marinara
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Mexicana Revival:NN0NQO1N3
+Pizza Mexicana Revival
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Tresen Plus:N50NQO1N3
+Pizza Tresen Plus
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Tuna:NQ0NQO1N3
+Pizza Tuna
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Fisch/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Ei/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Meeresfrüchte:N11NQO1N3
+Pizza Meeresfrüchte
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Fisch/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Krebstiere/-Erzeugnisse
+- Enthält Ei/-Erzeugnisse
+- Enthält Erdnüsse/-Erzeugnisse
+- Enthält Sojabohnen/-Erzeugnisse
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Schalenfrüchte/Nüsse bzw. Nusserzeugnisse
+- Enthält Sellerie/-Erzeugnisse
+- Enthält Senf/-Erzeugnisse
+- Enthält Sesamsamen/-Erzeugnisse
+- Enthält Lupine/-nerzeugnisse
+- Enthält Weichtiere/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Tuna Spezial:NO1NQO1N3
+Pizza Tuna Spezial
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Tonno Cipola:N71NQO1N3
+Pizza Tonno Cipola
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Cambari:N0NNQO1N3
+Pizza Cambari
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Sahra:N3NNQO1N3
+Pizza Sahra
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Meer Spezial:NPNNQO1N3
+Pizza Meer Spezial
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Weichtiere/-Erzeugnisse
+- Enthält Krebstiere/-Erzeugnisse
+- Enthält Fisch/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Tonno Hot:NRNNQO1N3
+Pizza Tonno Hot
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Marinara:NN3NQO1N3
+Pizza Marinara
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Mexicana Revival:N53NQO1N3
+Pizza Mexicana Revival
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Tresen Plus:NQ3NQO1N3
+Pizza Tresen Plus
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Tuna:N1ONQO1N3
+Pizza Tuna
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Fisch/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Ei/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Meeresfrüchte:NOONQO1N3
+Pizza Meeresfrüchte
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Fisch/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Krebstiere/-Erzeugnisse
+- Enthält Ei/-Erzeugnisse
+- Enthält Erdnüsse/-Erzeugnisse
+- Enthält Sojabohnen/-Erzeugnisse
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Schalenfrüchte/Nüsse bzw. Nusserzeugnisse
+- Enthält Sellerie/-Erzeugnisse
+- Enthält Senf/-Erzeugnisse
+- Enthält Sesamsamen/-Erzeugnisse
+- Enthält Lupine/-nerzeugnisse
+- Enthält Weichtiere/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Tuna Spezial:N7ONQO1N3
+Pizza Tuna Spezial
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Tonno Cipola:N05NQO1N3
+Pizza Tonno Cipola
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Cambari:N35NQO1N3
+Pizza Cambari
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Sahra:NP5NQO1N3
+Pizza Sahra
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Meer Spezial:NR5NQO1N3
+Pizza Meer Spezial
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Tonno Hot:NNPNQO1N3
+Pizza Tonno Hot
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Fantasy Ei:N370QO1N3
+Pizza Fantasy Ei
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Fantasy Gouda:NP70QO1N3
+Pizza Fantasy Gouda
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Fantasy Hot:NR70QO1N3
+Pizza Fantasy Hot
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Fantasy Mozzarella:NNQ0QO1N3
+Pizza Fantasy Mozzarella
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Fantasy Thunfisch:N5Q0QO1N3
+Pizza Fantasy Thunfisch
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Fantasy Schinken:NQQ0QO1N3
+Pizza Fantasy Schinken
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Fantasy Bolognese:N1R0QO1N3
+Pizza Fantasy Bolognese
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Fantasy Chicken:NOR0QO1N3
+Pizza Fantasy Chicken
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Fantasy Feta:N7R0QO1N3
+Pizza Fantasy Feta
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizza Fantasy Tonno Hot:N001QO1N3
+Pizza Fantasy Tonno Hot
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizzabrot (Sahne):NQR7RO1N3
+Pizzabrot (Sahne)
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pizzabrot (Knoblauch):N10QRO1N3
+Pizzabrot (Knoblauch)
+Zusatzstoffe
+- Gewachst
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pasta mit Tomatensauce:NRPRRO1N3
+Pasta mit Tomatensauce
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+Allergene
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pasta mit Bolognesesauce:NN7RRO1N3
+Pasta mit Bolognesesauce
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Sellerie/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pasta mit Broccoli:N57RRO1N3
+Pasta mit Broccoli
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+- Gewachst
+Allergene
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pasta mit Gorgonzola:NQ7RRO1N3
+Pasta mit Gorgonzola
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pasta mit Schinken:N1QRRO1N3
+Pasta mit Schinken
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pasta mit Tomaten-Sahnesauce:NOQRRO1N3
+Pasta mit Tomaten-Sahnesauce
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Ei/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pasta mit frischen Champignons:N7QRRO1N3
+Pasta mit frischen Champignons
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pasta mit Spinat und Gorgonzola:N0RRRO1N3
+Pasta mit Spinat und Gorgonzola
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pasta mit Pesto (grün):N3RRRO1N3
+Pasta mit Pesto (grün)
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pasta mit Auberginen und Zucchini:NPRRRO1N3
+Pasta mit Auberginen und Zucchini
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pasta mit Schafskäse:NRRRRO1N3
+Pasta mit Schafskäse
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pasta mit Pesto (rot):NN00051N3
+Pasta mit Pesto (rot)
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pasta mit Meeresfrüchten und Lachs:N500051N3
+Pasta mit Meeresfrüchten und Lachs
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pasta mit Broccoli und frischen Champignons:NQ00051N3
+Pasta mit Broccoli und frischen Champignons
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pasta mit 4 Käsesorten:N110051N3
+Pasta mit 4 Käsesorten
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pasta mit Schinken, Erbsen, Pilzen und Mais:NO10051N3
+Pasta mit Schinken, Erbsen, Pilzen und Mais
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pasta Carbonara:N710051N3
+Pasta Carbonara
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pasta Aglio Olio:N0N0051N3
+Pasta Aglio Olio
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Drei verschiedene Nudelsorten:N170051N3
+Drei verschiedene Nudelsorten
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+- Sulfite
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Ei/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Lasagne:NO70051N3
+Lasagne
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+Allergene
+- Enthält Ei/-Erzeugnisse
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Sellerie/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Lasange Vegetaria:N770051N3
+
+------------------------------------------------------------------------
+ID: Nudel-Auflauf mit Champignons:N701051N3
+Nudel-Auflauf mit Champignons
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+- Sulfite
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Ei/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Nudel-Auflauf mit Broccoli:N011051N3
+Nudel-Auflauf mit Broccoli
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+- Sulfite
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Ei/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Nudel-Auflauf mit Spinat:N311051N3
+Nudel-Auflauf mit Spinat
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+- Sulfite
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Ei/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Nudel-Auflauf mit Auberginen:NP11051N3
+Nudel-Auflauf mit Auberginen
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+- Sulfite
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Ei/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Nudel-Auflauf mit Hackfleisch:NR11051N3
+Nudel-Auflauf mit Hackfleisch
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+- Sulfite
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Ei/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Nudel-Auflauf mit Schafskäse:NNN1051N3
+Nudel-Auflauf mit Schafskäse
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+- Sulfite
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Ei/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Nudel-Auflauf mit Thunfisch:N5N1051N3
+Nudel-Auflauf mit Thunfisch
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+- Sulfite
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Ei/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Bolognese Schintzel:N03O151N3
+
+------------------------------------------------------------------------
+ID: Champignon Schnitzel:N33O151N3
+Champignon Schnitzel
+Allergene
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Ei/-Erzeugnisse
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Parmesan Schnitzel:NP3O151N3
+Parmesan Schnitzel
+Allergene
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Ei/-Erzeugnisse
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Peffer-Rahm Schnitzel:NR3O151N3
+Peffer-Rahm Schnitzel
+Allergene
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Ei/-Erzeugnisse
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Schnitzel Spolo:NNOO151N3
+Schnitzel Spolo
+Allergene
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Ei/-Erzeugnisse
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Wiener Schnitzel:N5OO151N3
+Wiener Schnitzel
+Allergene
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Ei/-Erzeugnisse
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Schnitzel Gorgonzola:NQOO151N3
+Schnitzel Gorgonzola
+Allergene
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Ei/-Erzeugnisse
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Zigeunerschnitzel:N15O151N3
+Zigeunerschnitzel
+Allergene
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Jäger Schnitzel:NO5O151N3
+Jäger Schnitzel
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+- Sulfite
+- Mit Süßungsmittel(n)
+- Kann bei übermäßigem Verzehr abführend wirken
+Allergene
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Ei/-Erzeugnisse
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Schnitzel Hawaii:N75O151N3
+Schnitzel Hawaii
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+Allergene
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Ei/-Erzeugnisse
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Hot Schnitzel:N0PO151N3
+Hot Schnitzel
+Allergene
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Ei/-Erzeugnisse
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Rahmschnitzel:N3PO151N3
+Rahmschnitzel
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Ei/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Spinat Schnitzel:NPPO151N3
+Spinat Schnitzel
+Allergene
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Ei/-Erzeugnisse
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Käserahm Schnitzel:NRPO151N3
+Käserahm Schnitzel
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Ei/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Zwiebel Schnitzel:NN7O151N3
+Zwiebel Schnitzel
+Allergene
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Ei/-Erzeugnisse
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Mozzarella Schnitzel:N57O151N3
+Mozzarella Schnitzel
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Ei/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pommes frites mit Ketchup:N0P0N51N3
+Pommes frites mit Ketchup
+Zusatzstoffe
+- Mit Konservierungsstoffen
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pommes frites mit Mayonnaise:N3P0N51N3
+Pommes frites mit Mayonnaise
+Zusatzstoffe
+- Mit Konservierungsstoffen
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Kroketten mit Ketchup:NPP0N51N3
+
+------------------------------------------------------------------------
+ID: Kroketten mit Mayonnaise:NRP0N51N3
+Kroketten mit Mayonnaise
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Nitritpökelsalz
+- Mit Nitrat
+- Mit Nitritpökelsalz und Nitrat
+- Mit Geschmacksverstärker
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Ei/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Calamari Fritti:NN70N51N3
+
+------------------------------------------------------------------------
+ID: Kartoffel-Tasche:N570N51N3
+
+------------------------------------------------------------------------
+ID: Chicken Wings (7 Stück):NQ70N51N3
+Chicken Wings (7 Stück)
+Allergene
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Sojabohnen/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Chicken Nuggets (7 Stück):N1Q0N51N3
+Chicken Nuggets (7 Stück)
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Ei/-Erzeugnisse
+- Enthält Erdnüsse/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Fisch Stäbchen (6 Stück):NOQ0N51N3
+
+------------------------------------------------------------------------
+ID: Burrito Diavolo:N1OQ151N3
+
+------------------------------------------------------------------------
+ID: Burrito Vegetaria:NOOQ151N3
+Burrito Vegetaria
+Allergene
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Krebstiere/-Erzeugnisse
+- Enthält Ei/-Erzeugnisse
+- Enthält Fisch/-Erzeugnisse
+- Enthält Erdnüsse/-Erzeugnisse
+- Enthält Sojabohnen/-Erzeugnisse
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Schalenfrüchte/Nüsse bzw. Nusserzeugnisse
+- Enthält Sellerie/-Erzeugnisse
+- Enthält Sesamsamen/-Erzeugnisse
+- Enthält Lupine/-nerzeugnisse
+- Enthält Weichtiere/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Burrito Quattro Formaggi:N7OQ151N3
+
+------------------------------------------------------------------------
+ID: Burrito Contadina:N05Q151N3
+
+------------------------------------------------------------------------
+ID: Burrito Don Giovanni:N35Q151N3
+
+------------------------------------------------------------------------
+ID: Burrito Sanremo:NP5Q151N3
+
+------------------------------------------------------------------------
+ID: Burrito Conladino:NR5Q151N3
+
+------------------------------------------------------------------------
+ID: Burrito con Mozzarella:NNPQ151N3
+Burrito con Mozzarella
+Allergene
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Burrito Tesmes:N5PQ151N3
+
+------------------------------------------------------------------------
+ID: Burrito Sorretina:NQPQ151N3
+
+------------------------------------------------------------------------
+ID: Burrito Vulcano:N17Q151N3
+
+------------------------------------------------------------------------
+ID: Burrito Speziale:NO7Q151N3
+
+------------------------------------------------------------------------
+ID: Burrito Rimini:N77Q151N3
+
+------------------------------------------------------------------------
+ID: Burrito Teufel:N0QQ151N3
+Burrito Teufel
+Allergene
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+- Enthält Krebstiere/-Erzeugnisse
+- Enthält Ei/-Erzeugnisse
+- Enthält Fisch/-Erzeugnisse
+- Enthält Erdnüsse/-Erzeugnisse
+- Enthält Sojabohnen/-Erzeugnisse
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Schalenfrüchte/Nüsse bzw. Nusserzeugnisse
+- Enthält Sellerie/-Erzeugnisse
+- Enthält Sesamsamen/-Erzeugnisse
+- Enthält Lupine/-nerzeugnisse
+- Enthält Weichtiere/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Burrito Cappricciosa:N3QQ151N3
+
+------------------------------------------------------------------------
+ID: Burrito Caravella:NPQQ151N3
+
+------------------------------------------------------------------------
+ID: Tiramisu:N7Q0N51N3
+Tiramisu
+Zusatzstoffe
+- Enthält Koffein
+- Erhöhter Koffeingehalt. Für Kinder, Schwangere und stillende Frauen nicht empfohlen
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält Ei/-Erzeugnisse
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Tartufo-Eis (braun):N0R0N51N3
+
+------------------------------------------------------------------------
+ID: Tartufo-Eis (weiß):N3R0N51N3
+
+------------------------------------------------------------------------
+ID: Spaghetti-Eis:NPR0N51N3
+Spaghetti-Eis
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+Allergene
+- Enthält Milch/-Erzeugnisse (laktosehaltig)
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Coca Cola 1,0l:N5P1N51N3
+Coca Cola 1,0l
+Zusatzstoffe
+- Mit Farbstoff
+- Enthält Koffein
+- Mit Phosphat
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Coca Cola Light 1,0l:NQP1N51N3
+Coca Cola Light 1,0l
+Zusatzstoffe
+- Mit Farbstoff
+- Enthält Koffein
+- Mit Süßungsmittel(n)
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Fanta 1,0l:N171N51N3
+
+------------------------------------------------------------------------
+ID: Sprite 1,0l:NO71N51N3
+
+------------------------------------------------------------------------
+ID: Mezzo Mix 1,0l:N771N51N3
+Mezzo Mix 1,0l
+Zusatzstoffe
+- Mit Farbstoff
+- Enthält Koffein
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Orangensaft 1,0l:N0Q1N51N3
+Orangensaft 1,0l
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+- Sulfite
+- Mit Süßungsmittel(n)
+- Kann bei übermäßigem Verzehr abführend wirken
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Mineralwasser 1,0l:N3Q1N51N3
+
+------------------------------------------------------------------------
+ID: Apfelsorle 1,0l:NPQ1N51N3
+
+------------------------------------------------------------------------
+ID: Apfelsaft 1,0l:NRQ1N51N3
+Apfelsaft 1,0l
+Zusatzstoffe
+- Mit Farbstoff
+- Mit Konservierungsstoffen
+- Mit Antioxidationsmittel
+- Mit Geschmacksverstärker
+- Sulfite
+- Mit Süßungsmittel(n)
+- Kann bei übermäßigem Verzehr abführend wirken
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Valpolicella 0,7l:NN5NN51N3
+
+------------------------------------------------------------------------
+ID: Chianti 0,7l:N55NN51N3
+Chianti 0,7l
+Zusatzstoffe
+- Mit Konservierungsstoffen
+- Sulfite
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Lambrusco 0,7l:NQ5NN51N3
+Lambrusco 0,7l
+Zusatzstoffe
+- Sulfite
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Frascati 0,7l:N1PNN51N3
+
+------------------------------------------------------------------------
+ID: Apfelwein 1,0l:NOPNN51N3
+
+------------------------------------------------------------------------
+ID: Warsteiner 0,5l:N7PNN51N3
+Warsteiner 0,5l
+Allergene
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Beck's 0,5l:N07NN51N3
+Beck's 0,5l
+Allergene
+- Enthält glutenhaltige/s Getreide/-Erzeugnisse
+Druckfehler, Irrtümer und Änderungen vorbehalten.
+------------------------------------------------------------------------
+ID: Pfungstädter Edelpils 0,5l:N37NN51N3
+
+------------------------------------------------------------------------
