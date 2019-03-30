@@ -79,11 +79,11 @@ def write_dishes(restname,subcatids):
             #Working for Allergies AND Ingredients
             try:   
                 dish.find_element_by_tag_name("a").click()
-                time.sleep(2)
+                time.sleep(1)
             except Exception as e:
                 print("\tNo Allergy/Ingredients")                   
                 continue
-            time.sleep(2)
+            time.sleep(1)
             try:
                 try:
                     allergy_element=driver.find_element_by_class_name("allergens")
@@ -109,7 +109,7 @@ def write_dishes(restname,subcatids):
                   
                 if (iFound):
                     driver.find_element_by_xpath('//*[@id="lightbox"]/div/div[1]/button').click()
-                    time.sleep(2)
+                    time.sleep(1)
             except Exception as e:
                 print("Error[AI Loop]: " + str(e))
                
@@ -141,7 +141,7 @@ def write_dishes(restname,subcatids):
                 #Working for Allergies AND Ingredients
                 try:   
                     dish.find_element_by_tag_name("a").click()
-                    time.sleep(2)
+                    time.sleep(1)
                 except Exception as e:
                     print("\tNo Allergy/Ingredients")                   
                     continue
@@ -169,7 +169,7 @@ def write_dishes(restname,subcatids):
                         print("\tNo Ingredients")
                         
                     driver.find_element_by_xpath('//*[@id="lightbox"]/div/div[1]/button').click()
-                    time.sleep(2)
+                    time.sleep(1)
                 except Exception as e:
                     print("Error[AI Loop]: No Allergy/Ingredients")
                     pass                
@@ -191,7 +191,7 @@ def write_subcat(restname):
     global driver
     global homepath
     global subcatids
-    print("Tayyeb: " + homepath)
+    #print("Tayyeb: " + homepath)
     file_subcat = open(homepath + "subcat.csv","w",newline="")
     subcat_writer = csv.writer(file_subcat,delimiter="|")
     elem=driver.find_element_by_class_name("menu-category-list")

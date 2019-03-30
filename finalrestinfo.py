@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
+from utilities import makedir
 import time
 import re
 import sys
@@ -13,19 +14,22 @@ if len(resturl)>0:
 else:
     myurl="https://www.lieferando.de/late-night-darmstadt"
 def findrestinfo(myurl):
-    homepath="..\\data\\"
+    myurl = myurl.replace("\n","")
     chrome_path="chromedriver.exe"
     driver = webdriver.Chrome(chrome_path)
+    foldername=myurl.partition("lieferando.de/")[2].replace("\n","")
+    makedir(foldername)
+    homepath="..\\data\\" + foldername +"\\"
     driver.get(myurl)
     try:
         driver.find_element_by_id('privacybanner').click()
     except Exception as e:
         pass
-    time.sleep(2)
+    time.sleep(1)
     moreinfo=driver.find_element_by_id("tab_MoreInfo")
     link=moreinfo.find_element_by_tag_name("a").get_attribute("href")
     driver.get(link)
-    time.sleep(2)
+    time.sleep(1)
 
     try:
         driver.find_element_by_id('privacybanner').click()
@@ -35,7 +39,7 @@ def findrestinfo(myurl):
     infocards=driver.find_elements_by_class_name("infoCard")
     for card in infocards:
         heading=card.find_element_by_tag_name("h2").text
-        print(heading)
+        #print(heading)
         #WORKING for OPENING TIMES
         if "Lieferzeiten" in heading:
             file_rest_ot = open(homepath + "rest_ot.csv","w",newline="")
@@ -55,10 +59,10 @@ def findrestinfo(myurl):
                         #Time
                         for Otime in Times:
                             try:
-                                print(Day,Otime.split("-")[0] ,Otime.split("-")[1])
+                                #print(Day,Otime.split("-")[0] ,Otime.split("-")[1])
                                 rest_ot_writer.writerow([myurl, Day,Otime.split("-")[0] ,Otime.split("-")[1]])
                             except Exception as e:
-                                print(Day,-1,-1)
+                                #print(Day,-1,-1)
                                 rest_ot_writer.writerow([myurl,Day,-1,-1])
                         stri = stri + " " + data.text.replace("\n"," ")
                     
@@ -76,7 +80,7 @@ def findrestinfo(myurl):
             address=""
             for part in addresslist:
                 address += part+" "
-            print(restname,owner,address)
+            #print(restname,owner,address)
             file_rest = open(homepath + "rest_info.csv","w",newline="")
             rest_writer = csv.writer(file_rest,delimiter="|")
             plz=re.findall("[0-9]{5}",address)[0]
@@ -94,6 +98,6 @@ def findrestinfo(myurl):
     os.rename(s,d)
     #os.rename(file_rest_ot.name,os.path(file_rest_ot.name) + "//" + restname + "_" + os.path.basename(file_rest_ot.name))
     driver.close()
-    return restname
+    return plz
     
     

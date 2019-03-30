@@ -3,7 +3,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.keys import Keys
 from xlsxwriter.workbook import Workbook
-import time
+import time, sys
 import csv
 import os
 import re
@@ -25,6 +25,7 @@ chrome_path="chromedriver.exe"
 #myurl="https://www.lieferando.de/pizzeria-la-rosa-moerfelden-walldorf"
 myurl="https://www.lieferando.de/pizza-drive-5"
 myurl="https://www.lieferando.de/sport-lokales-darmstadt"
+myurl=sys.argv[1]
 #myurl="https://www.lieferando.de/late-night-darmstadt"
 #myurl = "https://www.lieferando.de/lokal-da-toni-bei-rajput-1"
 #myurl="https://www.lieferando.de/picco-bello"

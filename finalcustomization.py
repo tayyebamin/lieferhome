@@ -30,7 +30,7 @@ def write_customization(restname,url,texttoAdd, dishids):
         try:
             time.sleep(2)
             driver.find_element_by_class_name("menu-meal-add").click()
-            time.sleep(5)
+            time.sleep(2)
             if (driver.find_element_by_class_name("inputs")):
                 time.sleep(2)
                 action=ActionChains(driver)
@@ -38,10 +38,10 @@ def write_customization(restname,url,texttoAdd, dishids):
                 #action.perform()
                 action.send_keys(Keys.ENTER)
                 action.perform()
-                time.sleep(25)
+                time.sleep(2)
         except Exception as e:
             print(str(e))
-       
+        driver.get(url)
         loopcounter=0
         for dishid in dishids:
             customcounter=0
